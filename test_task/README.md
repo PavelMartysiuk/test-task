@@ -1,9 +1,9 @@
 # Test task
 
 ## API urls:
-	http://127.0.0.1:8000/api/get_article/article_id/
+	http://127.0.0.1:8000/api/get_book/book_id/
 	This url is used to get information about one book and to add a new book.
-	http://127.0.0.1:8000/api/get_all_articles/
+	http://127.0.0.1:8000/api/get_all_books/
 	this url is uses to get infromation about all books.
 ## DataBase
 	Database in postgresql. 
